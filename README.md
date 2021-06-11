@@ -2,7 +2,7 @@
 Projet 2 Reservia
 Maquette :
 
-![maquette web reservia](./images/maquettes/Maquette_Desktop - 1.png)
+![Maquette_Desktop - 1](https://user-images.githubusercontent.com/59282548/121724004-81457100-cae7-11eb-926e-fcfa0ccd81b1.png)
 
 ## Éléments apporté par l'entreprise
 - Les Maquettes pour les résolutions ordinateur et téléphone nous est donné.
