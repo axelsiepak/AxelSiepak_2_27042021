@@ -6,7 +6,7 @@ Maquette :
 
 ## Éléments apporté par l'entreprise
 - Les Maquettes pour les résolutions ordinateur et téléphone nous est donné.
-- Les mages présentes du site sous differents formats.
+- Les images présentes du site sous differents formats.
 - Le set d'icones de [Font Awesome](https://fontawesome.com/).
 - Les couleurs : bleu #0065FC / bleu clair #DEEBFF / gris #F2F2F2
 - La police ["Raleway"](https://fonts.google.com/specimen/Raleway)
