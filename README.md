@@ -17,7 +17,7 @@ Maquette :
 Pour l’instant les liens seront vides.
 - Les filtres ne seront pas fonctionnels pour cette version, en revanche, il faut qu’ils changent d’apparence au survol. Je te laisse décider de l’effet le plus approprié.
 - Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
-- Ne pas pas de framework ou pré-compilateur CSS pour ce projet (comme SASS par exemple)
+- Ne pas utiliser de framework ou pré-compilateur CSS pour ce projet (comme SASS par exemple)
 - es images doivent être de taille adéquate afin qu'elle soit le plus jolie possible en impactant le moins possible le temps de chargement de la page.
 - [Le code devra utiliser les balises sémantiques et ne doit contenir aucune erreur ni alerte au validateur W3C HTML et CSS.](https://validator.w3.org/nu/?doc=https%3A%2F%2Faxelsiepak.github.io%2F)
 - Le site devra être compatible avec les dernières versions de Chrome et Firefox.
