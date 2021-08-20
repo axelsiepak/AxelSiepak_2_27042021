@@ -1,4 +1,4 @@
-# OpenClassrooms Projets
+# Reservia
 Projet 2 Reservia
 Maquette :
 
